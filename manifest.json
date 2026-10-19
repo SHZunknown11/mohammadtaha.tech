@@ -1,0 +1,19 @@
+{
+  "name": "Mohammad Taha - Portfolio & AI Engineer",
+  "short_name": "Mohammad Taha",
+  "description": "Full Stack Developer, AI Chatbot Specialist, IoT Engineer, and CSE student at Chandigarh University.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060812",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "categories": ["portfolio", "developer", "technology"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230a0b10'/><text y='.9em' x='0.15em' font-size='80'>⚡</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
